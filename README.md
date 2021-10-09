@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Vinicius1898
+- 📆 I first joined GitHub on august 31th, 2021.
 - 👀 I’m interested in learning new things and getting to know new people.
 - 🌱 I’m currently learning Git and GitHub, plus HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate with any projects from which I can improve my knowledge.
